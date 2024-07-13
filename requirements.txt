@@ -1,4 +1,4 @@
-pip==25.1.2
+pip==24.1.2
 numpy==1.22.4
 opencv_contrib_python==4.5.5.64
 opencv_python==4.10.0.84
