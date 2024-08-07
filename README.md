@@ -1,6 +1,3 @@
-Thanks for sharing the image of your GitHub repository structure. Based on the image, here is the updated README.md content for your Image Processor App repository:
-
----
 
 # Image Processor App 📸
 
@@ -87,8 +84,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or feedback, please contact [shivsagarm50@gmail.com](mailto:shivsagarm50@gmail.com).
+For any questions or feedback, please contact [Shivsagar Mishra](mailto:shivsagarm50@gmail.com).
 
----
-
-You can copy this content into your README.md file to improve the structure and information about your project.
